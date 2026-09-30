@@ -1,7 +1,6 @@
 # Hi, I'm Farid Farahani
 
-Python Developer | Website Administrator | Automation & E-commerce
-
+Python Developer | Web Developer
 I work on practical Python tools, browser automation, e-commerce operations, and website administration.
 
 ## About Me
