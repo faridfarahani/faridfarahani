@@ -6,7 +6,7 @@ I work on practical Python tools, browser automation, e-commerce operations, and
 ## About Me
 
 - Based in Tehran, Iran
-- Python Developer and Website Administrator
+- Python Developer and Web Developer
 - Experience managing large e-commerce catalogs
 - Building automation tools for repetitive workflows
 - Interested in practical software development and process automation
