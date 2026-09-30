@@ -36,6 +36,7 @@ I work on practical Python tools, browser automation, e-commerce operations, and
 ## Featured Repository
 
 - `python-learning-journey` — Python exercises and practice projects
+- `telegram-planner-bot` — Multi-user Telegram planner bot with reminders, progress tracking, Jalali dates, and SQLite persistence
 
 ## Contact
 
