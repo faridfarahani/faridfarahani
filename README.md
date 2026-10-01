@@ -34,7 +34,7 @@ I work on practical Python tools, browser automation, e-commerce operations, and
 - Improving my software development skills
 
 ## Featured Projects
-
+- `air-math-vision` — Real-time computer vision project combining face verification, hand gestures, air-writing digit recognition, and gesture-controlled arithmetic in a local FastAPI dashboard.
 - `ecommerce-automation-portfolio` — Portfolio-safe Python automation project demonstrating e-commerce price and inventory synchronization, browser session recovery, Excel workflows, and plugin-based architecture.
 
 - `telegram-planner-bot` — Multi-user Telegram planner bot with reminders, daily progress tracking, Jalali dates, and SQLite persistence.
